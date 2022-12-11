@@ -1,0 +1,30 @@
+body {
+    background-color: #1F314F;
+    display: flex;
+    justify-content: center;
+}
+
+.bck {
+    background-color: white;
+    width: 320px;
+    height: 497px; 
+}
+
+h2 {
+    color: 1F314F;
+    font-size: 22px;
+    text-align: center;
+}
+
+p {
+    color: #7D889E;
+    font-size: 15px;
+    text-align: center;
+}
+
+.qr-bck {
+    background-color: #1F314F;
+    width: 288px;
+    height: 288px;
+    
+}
